@@ -22,7 +22,7 @@ Durante a atividade, são explorados conceitos de criação de repositórios, do
 - Registrar alterações utilizando Conventional Commits.
 - Explorar o uso da Inteligência Artificial como apoio ao desenvolvimento.
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 | Ferramenta | Finalidade |
 |---|---|
@@ -54,7 +54,7 @@ atividade-versionamento/
 6. Criação de commits com mensagens padronizadas.
 7. Envio das alterações para o GitHub.
 
-## 📝 Conventional Commits
+##  Conventional Commits
 
 O padrão Conventional Commits organiza as mensagens de commit de acordo com o tipo de alteração realizada.
 
